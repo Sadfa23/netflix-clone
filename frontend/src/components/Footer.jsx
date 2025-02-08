@@ -9,11 +9,11 @@ const Footer = () => {
 						target='_blank'
 						className='font-medium underline underline-offset-4'
 					>
-						you
+						Terence Otieno
 					</a>
 					. The source code is available on{" "}
 					<a
-						href='https://github.com/burakorkmez'
+						href='https://github.com/Sadfa23/netflix-clone'
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
